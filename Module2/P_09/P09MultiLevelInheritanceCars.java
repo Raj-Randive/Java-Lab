@@ -7,7 +7,7 @@ class Car{
         System.out.println("In Car Constructor.");
     }
     void printData(){
-        System.out.println("The car type is: " + typeVehicle);
+        System.out.println("The Vehicle type is: " + typeVehicle);
     }
 }
 
@@ -38,7 +38,7 @@ class Maruti800 extends Maruti{
 
     void printData(){
 
-        System.out.println("\nCar type is: " + typeVehicle);
+        System.out.println("\nVehicle type is: " + typeVehicle);
         System.out.println("Brand Name is: " + brandName);
         System.out.println("Speed Limit of \"" + carName + "\" is: " + speedLimit);
     }
