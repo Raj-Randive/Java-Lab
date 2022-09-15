@@ -44,7 +44,7 @@ class Circle extends Shapes {
 }
 
 //*********************************************************************
-public class P11RuntimePolymorphismMI {
+public class P11RuntimePolymorphismHI {
     public static void main(String args[]){
 
         // Here area Method is overridden. So.,
