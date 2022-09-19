@@ -16,7 +16,7 @@ class distance{
 }
 
 public class P01Distance {
-    public static void main(String []args){
+    public static void main(String[] args){
 
         Scanner myscan = new Scanner(System.in);
         System.out.print("Enter the distance in feet: ");
