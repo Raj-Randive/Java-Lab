@@ -20,7 +20,6 @@ class callFromDefault{
         System.out.println("b: " + b);
     }
 
-
 }
 
 public class P08CallConsFromDefaultCons {

@@ -47,7 +47,5 @@ class P04OverloadedAndCopyConstructor{
         overload obj5 =new overload(obj3);
         obj5.printOverload();
 
-
-
     }
 }

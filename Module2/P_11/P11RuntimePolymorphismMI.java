@@ -56,5 +56,9 @@ public class P11RuntimePolymorphismMI {
         Car obj2 = new Maruti800();
         obj2.printData();
 
+        Maruti obj3 = new Maruti800();
+        System.out.println("\n" + obj3.speedLimit);
+
+
     }
 }
