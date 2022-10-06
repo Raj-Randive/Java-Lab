@@ -1,5 +1,4 @@
 // 7. Write programs in Java to use Wrapper class of each primitive data types.
-
 // The wrapper classes in Java are used to convert primitive types (int, char, float, etc) into corresponding objects.
 package Module2.P_07;
 
