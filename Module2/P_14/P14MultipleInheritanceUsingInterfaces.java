@@ -1,7 +1,4 @@
-/*
-15. a) Write an application that illustrates method overriding in the same package and  different packages.
-    b) Also demonstrate accessibility rules in inside and outside packages.
-*/
+// 14. Write a program in Java to demonstrate multiple inheritance.
 package Module2.P_14;
 
 interface Add{
