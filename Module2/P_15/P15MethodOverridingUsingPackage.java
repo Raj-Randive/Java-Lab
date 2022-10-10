@@ -2,7 +2,7 @@
         b) Also demonstrate accessibility rules in inside and outside packages.
 */
 package Module2.P_15;
-//import Package3.C;
+import Package3.*;
 
 class A{
     void show(){
@@ -23,7 +23,10 @@ public class P15MethodOverridingUsingPackage{
         A obj1 = new B(); // Polymorphism
         obj1.show();
 
-//        C obj2 = new C();
-//        obj2.show();
+        C obj2 = new C();
+        obj2.show();
+
+        C obj3 = new D();
+        obj3.show();
     }
 }
