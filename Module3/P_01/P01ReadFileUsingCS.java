@@ -2,7 +2,7 @@
         > a. Byte Stream
         > b. Character Stream
         > c. Buffer Reader/ Buffer Writer
-        > d. Serializable interface.
+        > d. Serializable interface.  --> Used to read/write objects.
 */
 package Module3.P_01;
 import java.io.File;
