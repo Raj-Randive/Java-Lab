@@ -1,4 +1,4 @@
-package Package3;
+package AnotherPackage;
 
 public class C{
     public void show(){

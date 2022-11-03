@@ -1,4 +1,4 @@
-package Package3;
+package AnotherPackage;
 
 public class D extends C {
     public void show() {
