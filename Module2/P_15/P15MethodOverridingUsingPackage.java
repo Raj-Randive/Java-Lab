@@ -2,7 +2,7 @@
         b) Also demonstrate accessibility rules in inside and outside packages.
 */
 package Module2.P_15;
-import Package3.*;
+import AnotherPackage.*;
 
 class A{
     void show(){
