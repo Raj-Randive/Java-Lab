@@ -1,5 +1,5 @@
-//Q-2. Read from a file convert it to uppercase and save it into another file.
-//character by character scanning
+// Q-2. Read from a file convert it to uppercase and save it into another file.
+// Character by character scanning
 
 package Module3.P_02;
 import java.io.FileReader;
@@ -22,7 +22,7 @@ public class P02ConvertUppercase {
             System.out.println(str);
 
 
-            FileWriter fw = new FileWriter("f2.txt");
+            FileWriter fw = new FileWriter("E:\\Just Code\\Java Lab\\src\\Module3\\P_02\\f2.txt");
             System.out.println("\nAfter writing to another File.");
             fw.write(str1);
             System.out.println(str1);
