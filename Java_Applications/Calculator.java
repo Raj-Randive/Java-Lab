@@ -4,8 +4,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.ButtonGroup;
-import javax.swing.border.Border;
-import javax.swing.border.LineBorder;
 
 public class Calculator implements ActionListener{
 
