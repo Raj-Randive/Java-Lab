@@ -1,6 +1,5 @@
 // Q-6]. Write a program to manipulate the information from files by using the Reader and Writer class. Assume suitable data.
 package Module3.P_06;
-
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.Reader;
