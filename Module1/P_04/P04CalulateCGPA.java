@@ -1,7 +1,7 @@
+package Module1.P_04;
 import java.util.Scanner;
 
 public class P04CalulateCGPA{
-	
 	public static void main(String args[]){
 		Scanner myScan = new Scanner(System.in);
 		

@@ -1,3 +1,4 @@
+package Module1.P_06;
 import java.util.*;
 
 public class P06VowelsAndConsonants {

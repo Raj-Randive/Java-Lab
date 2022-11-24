@@ -1,3 +1,4 @@
+package Module1.P_05;
 import java.util.*;
 
 public class P05MaximumUsingNestedIf {
@@ -36,15 +37,7 @@ public class P05MaximumUsingNestedIf {
         
         // Using CONDITIONAL OPERATOR...!!
         System.out.print("\n\nUsing Conditional Operator");
-
-        if (n1>n2) {
-            System.out.print("\n\nThe Maximum Number out of these three is : " + ((n1>n3) ? n1 : n3) );
-        }
-        else{
-            System.out.print("\n\nThe Maximum Number out of these three is : " + ( (n2>n3) ? n2 : n3) );
-        }
-        
-
+        System.out.println("\n\nThe Maximum Number out of these three is : " + ( (n1>n2) ? ((n1>n3) ? n1 : n3) : ((n2>n3) ? n2 : n3)) );
 
         scan.close();
     }

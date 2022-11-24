@@ -12,14 +12,13 @@ public class Calculator implements ActionListener{
     int calculation;
 
     JFrame frame = new JFrame("Calculator");
-    JLabel label =new JLabel();
+    JLabel label = new JLabel();
     JTextField t1 = new JTextField();
 
     ButtonGroup g1 = new ButtonGroup(); // By grouping the radio buttons, we can get only one checked at a time.
 
     JRadioButton onRB = new JRadioButton("On");
     JRadioButton offRB = new JRadioButton("Off");
-
 
     JButton b0 = new JButton("0");
     JButton b1 = new JButton("1");
