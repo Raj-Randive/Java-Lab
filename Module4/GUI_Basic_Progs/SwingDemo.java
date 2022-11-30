@@ -8,10 +8,10 @@ public class SwingDemo extends JFrame{
 //        JFrame jf1 = new JFrame();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        //APPROACH - 1 : Using getScreenSize() method
-        Toolkit tk=Toolkit.getDefaultToolkit(); //Initializing the Toolkit class.
-        Dimension screenSize = tk.getScreenSize(); //Get the Screen resolution of our device.
-        setSize(screenSize.width,screenSize.height); //Set the width and height of the JFrame.
+//        //APPROACH - 1 : Using getScreenSize() method
+//        Toolkit tk=Toolkit.getDefaultToolkit(); //Initializing the Toolkit class.
+//        Dimension screenSize = tk.getScreenSize(); //Get the Screen resolution of our device.
+//        setSize(screenSize.width,screenSize.height); //Set the width and height of the JFrame.
 
 //        jf1.setSize(400, 500); // This 1920 and 1080 is in pixels.
 
