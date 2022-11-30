@@ -1,4 +1,4 @@
-package Module4.GUI_Basic_progs;
+package Java_Applications;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
