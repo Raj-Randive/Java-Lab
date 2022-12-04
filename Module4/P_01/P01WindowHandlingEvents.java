@@ -1,7 +1,6 @@
 // Q-1]. Write a program to demonstrate different Window handling events.
-package Module4.P_01;
 
-import javax.swing.*;
+package Module4.P_01;
 import java.awt.*;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
