@@ -28,16 +28,15 @@ class Student{
         }catch(Exception e){
             System.out.println(e.getMessage());
         }
-
-
     }
+
     void readData(){
         P04Student.lines();
         System.out.println("Reading Data from the File.\n");
 
         try{
             FileInputStream fin = new FileInputStream("E:\\Just Code\\Java Lab\\src\\Module3\\P_04\\Data1.txt");
-            int i = 0;
+            int i;
 
             while( (i=fin.read()) != -1){
                System.out.print((char)i);
@@ -50,7 +49,6 @@ class Student{
         }catch(Exception e){
             System.out.println(e.getMessage());
         }
-
     }
 
 }

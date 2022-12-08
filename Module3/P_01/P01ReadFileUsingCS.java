@@ -46,8 +46,5 @@ public class P01ReadFileUsingCS {
         catch(IOException e){
             e.printStackTrace();
         }
-
-
-
     }
 }
